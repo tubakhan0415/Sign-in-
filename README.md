@@ -1,2 +1,2 @@
 # Sign-in-
-This app is for sigh-up from the streamlit app
+This app is for sign-up from the streamlit app
